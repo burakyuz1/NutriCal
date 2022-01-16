@@ -1,7 +1,7 @@
 # NutriCal (Calorie Tracking App)
 
 
-This project was carried out together with [Arzu Karatas](https://github.com/karatasarzu) and [Ömer Faruk Ekici](https://github.com/omerfe) for the BilgeAdam Academy term paper.
+This project was carried out together with [Arzu Karatas](https://github.com/karatasarzu) and [Ömer Faruk Eker](https://github.com/omerfe) for the BilgeAdam Academy term paper.
 
 **NutriCal** is a calorie tracking program. By using this program, you can calculate the calories you take and burn, and report weekly/monthly. In addition, the program tells you the daily calorie intake by calculating the [MIFFLIN-ST JEOR](https://academic.oup.com/ajcn/article-abstract/51/2/241/4695104?redirectedFrom=fulltext) formula.
 
